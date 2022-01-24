@@ -1,4 +1,4 @@
-module github.com/Ankr-network/ankrscan-constants
+module github.com/Ankr-network/ankrscan-blockchains
 
 go 1.17
 
