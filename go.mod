@@ -3,7 +3,7 @@ module github.com/Ankr-network/ankrscan-blockchains
 go 1.17
 
 require (
-	github.com/Ankr-network/ankrscan-proto-contract v0.0.0-20220124155725-bc7572319d02
+	github.com/Ankr-network/ankrscan-proto-contract v0.0.0-20220202102414-bbc4cfd68b0d
 	github.com/pkg/errors v0.9.1
 )
 
