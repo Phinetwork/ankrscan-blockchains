@@ -1,7 +1,7 @@
 package blockchains
 
 import (
-	proto "github.com/Ankr-network/ankrscan-proto-contract/generated/go"
+	"github.com/Ankr-network/ankrscan-proto-contract/generated/go/proto"
 	"github.com/pkg/errors"
 )
 
