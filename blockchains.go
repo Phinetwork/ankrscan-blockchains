@@ -73,5 +73,12 @@ var blockchains = []*proto.BlockchainProperties{
 		Symbol:         "MATIC",
 		Decimals:       18,
 	},
+		{
+		BlockchainName: "PHI",
+		VerboseName:    "PHI",
+		ChainType:      proto.ChainType_CHAIN_TYPE_ETHEREUM,
+		Symbol:         "PHI",
+		Decimals:       18,
+	},
 }
 
